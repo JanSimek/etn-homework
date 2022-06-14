@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Spring Boot application class.
+ * etnRest homework application which provides a REST service for querying JavaScript Frameworks
  * 
  * @author Etnetera
  *

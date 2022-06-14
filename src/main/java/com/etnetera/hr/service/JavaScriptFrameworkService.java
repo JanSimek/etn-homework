@@ -59,7 +59,7 @@ public interface JavaScriptFrameworkService {
     void addVersion(String name, String newVersion);
 
     /**
-     * Search for a optional based on its properties
+     * Search for a framework by one or more of its properties
      * @param name optional case-insensitive
      * @param version optional
      * @param deprecationDate optional
